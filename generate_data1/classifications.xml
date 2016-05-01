@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<classifications type_id="opencv-matrix">
+  <rows>23</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    101. 97. 99. 100. 98. 68. 66. 70. 69. 67. 65. 101. 99. 97. 102. 99.
+    98. 70. 69. 68. 67. 66. 65.</data></classifications>
+ <!-- resumed -->
+
+<classifications type_id="opencv-matrix">
+  <rows>9</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    69. 65. 100. 98. 65. 69. 68. 67. 66.</data></classifications>
+</opencv_storage>
